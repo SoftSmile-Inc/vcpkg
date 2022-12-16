@@ -16,7 +16,6 @@
     "boost-system",
     "boost-thread",
     "boost-uuid",
-    "imath",
     "openexr",
     "tbb",
     {
